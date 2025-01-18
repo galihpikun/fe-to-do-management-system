@@ -22,6 +22,7 @@ export default function Home() {
           </li>
           <li>Save and see your changes instantly.</li>
           <li>Gila Guru tamu susah banget</li>
+          <li>Git add . terus Git commit -m "perubahan" terus git push</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
