@@ -12,14 +12,6 @@ export default function Home() {
           height={38}
           priority
         />
-        <Image
-          className="dark:invert"
-          src="/image-removebg-preview (4)"
-          alt="jempol"
-          width={180}
-          height={38}
-          priority
-        />
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2">
             Get started by editing{" "}
